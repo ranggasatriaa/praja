@@ -252,6 +252,7 @@ ul.wmuSliderPagination{
 .line-in{
 	float:left;
 	width:75%;
+	max-height: 450px;
 }
 .dummy-text{
 	float:right;
@@ -285,7 +286,7 @@ ul.social-circle li a i.break:hover{
 	background-position:-306px -205px;
 }
 .dummy-text h6{
-	font-size: 1em;
+	font-size: 2em;
 	color: #838383;
 	letter-spacing: 3px;
 	text-transform: uppercase;
